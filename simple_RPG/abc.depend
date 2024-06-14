@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715270559 source:c:\users\asus\desktop\abc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1718371389 source:c:\users\asus\desktop\algorithm_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
